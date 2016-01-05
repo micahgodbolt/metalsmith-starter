@@ -1,0 +1,23 @@
+{
+  "name": "@micahgodbolt/metalsmith-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node metalsmith.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahgodbolt/metalsmith-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahgodbolt/metalsmith-starter/issues"
+  },
+  "homepage": "https://github.com/micahgodbolt/metalsmith-starter#readme",
+  "devDependencies": {
+    "metalsmith": "^2.1.0"
+  }
+}
