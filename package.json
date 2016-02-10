@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/micahgodbolt/metalsmith-starter#readme",
   "devDependencies": {
-    "metalsmith": "^2.1.0"
+    "metalsmith": "^2.1.0",
+    "metalsmith-layouts": "^1.4.4",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-serve": "0.0.7",
+    "metalsmith-watch": "^1.0.1",
+    "nunjucks": "^2.3.0"
   }
 }

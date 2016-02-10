@@ -3,4 +3,6 @@ title: Hello World
 date: 2016-01-04
 ---
 
-<p>This is the home page</p>
+# Header 1
+
+This is a paragraph
